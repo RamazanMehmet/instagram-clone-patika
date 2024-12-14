@@ -4,7 +4,7 @@
 
 ## Bootstrap Proje 2: Instagram Clone Projesi
 Bu proje, Patika Dev üzerinden tamamladığım bir Instagram Clone projesidir.   
-Bootstrap ve temel HTML, CSS Instagram'a benzer bir sosyal medya platformu arayüzü oluşturmayı hedefledim.
+Bootstrap ve temel HTML, CSS Instagram arayüzü oluşturmayı hedefledim.
 
 ## Proje Amacı
 Bu projede, Bootstrap framework'ü kullanarak:  
